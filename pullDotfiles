@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
 cp /etc/nixos/configuration.nix ./
+cp ~/.config/latte/dockBottom.layout.latte ./config/latte/.
